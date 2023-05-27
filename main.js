@@ -10,8 +10,7 @@ form.addEventListener('submit', function(e) {
 
      adicionaLinha();
      atualizaTabela();
-
-     
+          
 });
 
 function adicionaLinha() {
